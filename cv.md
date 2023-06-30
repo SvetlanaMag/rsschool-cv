@@ -1,21 +1,25 @@
 # Sviatlana Maherava
-------------------------------------------------------
-## Contact info
+
+# Contact info
   **Phone:**
+
   **E-mail:** svetlanammmsv@gmail.com
+
   **Slack:** @SviatlanaMag
+
   **Discord:** @SviatlanaMag
+
   [LinkedIn]()
-------------------------------------------------------
-## Summary
+
+# Summary
 
 
-------------------------------------------------------
-## Skils
+
+# Skils
 
 
-------------------------------------------------------
-## Code example
+
+# Code example
 Your task is to write function `factorial`
 ```
     function factorial(n) {
@@ -26,13 +30,13 @@ Your task is to write function `factorial`
         return result;
     }
 ```
-------------------------------------------------------
-## Experience
+
+# Experience
 
 
-------------------------------------------------------
-## Education
+
+# Education
 
 
-------------------------------------------------------
-## Languages
+
+# Languages
