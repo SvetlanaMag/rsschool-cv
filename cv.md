@@ -15,9 +15,17 @@
 
 
 
-# Skils
-
-
+# Skills
+- JavaScript, Java (basics)
+- HTML, CSS
+- VSCode, IntelliJ IDEA
+- Git/GitHub
+- DevTools
+- Cypress
+- Postman
+- MySQL
+- CorelDraw, Adobe Photoshop, Adobe Illustrator, Inkscape, ArtCAM
+- Google Docs, Google Sheets
 
 # Code example
 Your task is to write function `factorial`
@@ -36,7 +44,19 @@ Your task is to write function `factorial`
 
 
 # Education
-
-
+- Belarusian State Technological University
+  - Faculty of Print Technology and Media Communications
+- RedRoverSchool
+  - QA Automation (JavaScript/Cypress, SQL, API testing, HTML, CSS)
+- EPAM training center
+  - Automated Testing Basics
+- localCoding (PASV)
+  - JavaScript Syntax
+- Хекслет
+  - JavaScript Basics
 
 # Languages
+- English - B1
+- German - A1
+- Belarusian - native
+- Russian - native
