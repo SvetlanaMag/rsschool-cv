@@ -7,9 +7,9 @@
 
   **Slack:** @SviatlanaMag
 
-  **Discord:** @SviatlanaMag
+  **Discord:** @svetlanamag
 
-  [LinkedIn]()
+  [LinkedIn](https://www.linkedin.com/in/sviatlana-maherava-aab097243/)
 
 # Summary
 
@@ -18,14 +18,15 @@
 # Skills
 - JavaScript, Java (basics)
 - HTML, CSS
-- VSCode, IntelliJ IDEA
+- VS Code, IntelliJ IDEA
 - Git/GitHub
 - DevTools
 - Cypress
-- Postman
+- Postman, Swagger
 - MySQL
 - CorelDraw, Adobe Photoshop, Adobe Illustrator, Inkscape, ArtCAM
 - Google Docs, Google Sheets
+- Trello, Notion  
 
 # Code example
 Your task is to write function `factorial`
@@ -40,8 +41,11 @@ Your task is to write function `factorial`
 ```
 
 # Experience
-
-
+Volunteer QA automation engineer in RedRoverSchool (oct, 2022 - present)
+-	JavaScript for creating automation tests in Cypress
+-	DevTools, VS Code
+-	teamwork in Github (pull request, merge, conflict resolving, code review)
+-	API testing (Postman, Swagger)
 
 # Education
 - Belarusian State Technological University
@@ -50,9 +54,9 @@ Your task is to write function `factorial`
   - QA Automation (JavaScript/Cypress, SQL, API testing, HTML, CSS)
 - EPAM training center
   - Automated Testing Basics
-- localCoding (PASV)
+- [localCoding](https://coding.pasv.us/) (PASV)
   - JavaScript Syntax
-- Хекслет
+- [Hexlet](https://ru.hexlet.io/)
   - JavaScript Basics
 
 # Languages
