@@ -12,7 +12,9 @@
   [LinkedIn](https://www.linkedin.com/in/sviatlana-maherava-aab097243/)
 
 # Summary
+I have an experience as a trainee QA automation engineer, I using VS Code, JavaScript, DevTools, CSS selectors, XPath, Cypress, GitHub for testing UI elements of websites. Working with websites I became interested in the website development process.
 
+Currently, I am looking to deepen my knowledge in JavaScript, HTML, CSS and learn front-end technologies and frameworks. I am sure that the experience I have and my eagerness to acquire new knowledge and skills will allow me quickly master front-end development.
 
 
 # Skills
@@ -41,7 +43,7 @@ Your task is to write function `factorial`
 ```
 
 # Experience
-Volunteer QA automation engineer in RedRoverSchool (oct, 2022 - present)
+Trainee QA automation engineer in RedRoverSchool (oct, 2022 - present)
 -	JavaScript for creating automation tests in Cypress
 -	DevTools, VS Code
 -	teamwork in Github (pull request, merge, conflict resolving, code review)
